@@ -5,8 +5,8 @@
 %global crate sys-info
 
 Name:           rust-%{crate}
-Version:        0.5.8
-Release:        2%{?dist}
+Version:        0.9.1
+Release:        1%{?dist}
 Summary:        Get system information in Rust
 
 # Upstream license specification: MIT
